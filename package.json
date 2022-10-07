@@ -1,0 +1,12 @@
+{
+  "name": "pruebasunitarias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejercicio01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
